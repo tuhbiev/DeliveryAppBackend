@@ -1,0 +1,14 @@
+# Files
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.swp
+*.bak
+*.cache
+
+# Directories
+__pycache__/
+logs/
+media/
+.idea
